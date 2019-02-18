@@ -21,4 +21,3 @@
 | 12         | [docker-compose](https://github.com/ayuwidyainggit/docker-compose)  | 07 Desember 2018  | Agar mahasiswa dapat mengetahui tentang docker compose|
 | 13         | memperbaiki repo  | 14 Desember 2018  | |
 | 14         | membuat repo overview-tct                                           | 21 Desember 2018  |  - |
-| 14         | [ujian-tct](https://github.com/ayuwidyainggit/ujian-tct)                                        | 18 januari 2019  |  dockerfile|
