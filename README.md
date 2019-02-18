@@ -7,7 +7,7 @@
 
 | PERTEMUAN | NAMA REPO                                                           | TANGGAL           | KEGUNAAN                                                                |
 |-----------|:-------------------------------------------------------------------:|:-----------------:|:-----------------------------------------------------------------------:|
-| 1         | [tct](https://github.com/ayuwidyainggit/tct/tree/master/minggu-01)  | 7 September 2018  | Agar mahasiswa dapat mengetahui layanan cloud yaitu Saas, IaaS, dan PaaS|
+| 1         | [tct](https://github.com/rullybabaa/tct/tree/master/minggu-1)  | 7 September 2018  | Agar mahasiswa dapat mengetahui layanan cloud yaitu Saas, IaaS, dan PaaS|
 | 2         | [tct](https://github.com/ayuwidyainggit/tct/tree/master/minggu-02)  | 14 September 2018  | Agar mahasiswa dapat mengetahui penerapan software berbasis as service (SaaS) pada cloud computing|
 | 3         | [tct](https://github.com/rullybabaa/tct/tree/master/minggu-03)  | 21 September 2018  | Agar mahasiswa dapat mengetahui arsitektur cloud computing |
 | 4         | [tct](https://github.com/rullybabaa/tct/tree/master/minggu-04)  | 28 September 2018  | Agar mahasiswa dapat mengetahui tentang BpaaS|
