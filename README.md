@@ -11,7 +11,7 @@
 | 2         | [tct](https://github.com/rullybabaa/tct/tree/master/minggu-2)  | 14 September 2018  | Agar mahasiswa dapat mengetahui penerapan software berbasis as service (SaaS) pada cloud computing|
 | 3         | [tct](https://github.com/rullybabaa/tct/tree/master/minggu-3)  | 21 September 2018  | Agar mahasiswa dapat mengetahui arsitektur cloud computing |
 | 4         | [tct](https://github.com/rullybabaa/tct/tree/master/minggu-4)  | 28 September 2018  | Agar mahasiswa dapat mengetahui tentang BpaaS|
-| 5         | [tct](https://github.com/ayuwidyainggit/tct/tree/master/minggu-05)  | 05 Oktober 2018  | Agar mahasiswa dapat memahami spreadsheed berbasis javascript |
+| 5         | [tct](https://github.com/rullybabaa/tct/tree/master/minggu-5)  | 05 Oktober 2018  | Agar mahasiswa dapat memahami spreadsheed berbasis javascript |
 | 6         | [endpoint](https://github.com/rullybabaa/endpoint)  | 12 Oktober 2018  | Agar mahasiswa dapat memahami tentang end point |
 | 7         | [mysql-express-nodejs](https://github.com/rullybabaa/mysql-express-nodejs)  | 19 Oktober 2018  | Agar mahasiswa dapat mengambil data dari mysql menggunakan express dan node js|
 | 8         | Melengkapi repo                                                     | 09 November 2018  | -  |
