@@ -17,7 +17,7 @@
 | 8         | Melengkapi repo                                                     | 09 November 2018  | -  |
 | 9         | [web2.0](https://github.com/rullybabaa/pertemuan_9)                  | 16 November 2018  | Agar mahasiswa dapat mengetahui teknologi yang digunakan di web 2.0 |
 | 10         | [git-sendiri-tim](https://github.com/ayuwidyainggit/git-sendiri-tim)| 23 November 2018  | Agar mahasiswa dapat mengetahui cara kerja git dan github|
-| 11        | [docker-ayu](https://github.com/ayuwidyainggit/docker-ayu)  | 30 November 2018  |  Pengenalan docker  |
+| 11        | [docker-rullybaba](https://github.com/rullybabaa/docker-rullybaba)  | 30 November 2018  |  Pengenalan docker  |
 | 12         | [docker-compose](https://github.com/ayuwidyainggit/docker-compose)  | 07 Desember 2018  | Agar mahasiswa dapat mengetahui tentang docker compose|
 | 13         | memperbaiki repo  | 14 Desember 2018  | |
 | 14         | membuat repo overview-tct                                           | 21 Desember 2018  |  - |
