@@ -15,7 +15,7 @@
 | 6         | [endpoint](https://github.com/rullybabaa/tct/tree/master/minggu-6)  | 12 Oktober 2018  | Agar mahasiswa dapat memahami tentang end point |
 | 7         | [mysql-express-nodejs](https://github.com/rullybabaa/tct/tree/master/minggu-7)  | 19 Oktober 2018  | Agar mahasiswa dapat mengambil data dari mysql menggunakan express dan node js|
 | 8         | Melengkapi repo                                                     | 09 November 2018  | -  |
-| 9         | [web2.0](https://github.com/ayuwidyainggit/web2.0)                  | 16 November 2018  | Agar mahasiswa dapat mengetahui teknologi yang digunakan di web 2.0 |
+| 9         | [web2.0](https://github.com/rullybabaa/pertemuan_9)                  | 16 November 2018  | Agar mahasiswa dapat mengetahui teknologi yang digunakan di web 2.0 |
 | 10         | [git-sendiri-tim](https://github.com/ayuwidyainggit/git-sendiri-tim)| 23 November 2018  | Agar mahasiswa dapat mengetahui cara kerja git dan github|
 | 11        | [docker-ayu](https://github.com/ayuwidyainggit/docker-ayu)  | 30 November 2018  |  Pengenalan docker  |
 | 12         | [docker-compose](https://github.com/ayuwidyainggit/docker-compose)  | 07 Desember 2018  | Agar mahasiswa dapat mengetahui tentang docker compose|
